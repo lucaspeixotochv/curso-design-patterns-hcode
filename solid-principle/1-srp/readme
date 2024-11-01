@@ -1,0 +1,7 @@
+# SRP - Single Responsibility Principle
+
+## Principio da responsabilidade única
+
+-> Uma classe deve ser especializada em um único assunto
+-> Classes com uma única responsabilidade são mais fáceis de reutilizar e testar
+-> Uma classe deve ter um único motivo para ser alterada

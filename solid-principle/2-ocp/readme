@@ -1,0 +1,11 @@
+# OCP - Open/Closed Principle
+
+## Principio Aberto/Fechado
+
+-> Aberto para extensão
+
+- Quando surge um novo requerimento, é possível adicionar um novo comportamento sem modificar o código existente.
+
+-> Fechado para modificação
+
+- Para introduzir um novo comportamento, não é necessário modificar o código original.
